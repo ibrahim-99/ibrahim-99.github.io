@@ -9,7 +9,7 @@
 /* Start header */
 .header .slider
 {
-    background-image: url('../images/slider.png');
+    background-image: url('../slider.png');
     -webkit-background-size: cover; /* CSS3 */
     -moz-background-size: cover; /* CSS3 */
     -o-background-size: cover; /* CSS3 */
